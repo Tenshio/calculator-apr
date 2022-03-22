@@ -1,0 +1,33 @@
+C:\Users\tsuki\source\repos\CalculadoraV5\CalculadoraV5\bin\Debug\CalculadoraV5.exe.config
+C:\Users\tsuki\source\repos\CalculadoraV5\CalculadoraV5\bin\Debug\CalculadoraV5.exe
+C:\Users\tsuki\source\repos\CalculadoraV5\CalculadoraV5\bin\Debug\CalculadoraV5.pdb
+C:\Users\tsuki\source\repos\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.csproj.AssemblyReference.cache
+C:\Users\tsuki\source\repos\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsuki\source\repos\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.Form1.resources
+C:\Users\tsuki\source\repos\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.Properties.Resources.resources
+C:\Users\tsuki\source\repos\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.csproj.GenerateResource.cache
+C:\Users\tsuki\source\repos\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.csproj.CoreCompileInputs.cache
+C:\Users\tsuki\source\repos\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.exe
+C:\Users\tsuki\source\repos\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.pdb
+C:\Users\tsuki\Documents\bkp da calculadora\CalculadoraV5\CalculadoraV5\bin\Debug\CalculadoraV5.exe.config
+C:\Users\tsuki\Documents\bkp da calculadora\CalculadoraV5\CalculadoraV5\bin\Debug\CalculadoraV5.exe
+C:\Users\tsuki\Documents\bkp da calculadora\CalculadoraV5\CalculadoraV5\bin\Debug\CalculadoraV5.pdb
+C:\Users\tsuki\Documents\bkp da calculadora\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.csproj.AssemblyReference.cache
+C:\Users\tsuki\Documents\bkp da calculadora\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsuki\Documents\bkp da calculadora\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.Form1.resources
+C:\Users\tsuki\Documents\bkp da calculadora\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.Properties.Resources.resources
+C:\Users\tsuki\Documents\bkp da calculadora\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.csproj.GenerateResource.cache
+C:\Users\tsuki\Documents\bkp da calculadora\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.csproj.CoreCompileInputs.cache
+C:\Users\tsuki\Documents\bkp da calculadora\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.exe
+C:\Users\tsuki\Documents\bkp da calculadora\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.pdb
+C:\Users\tsuki\Documents\apresentar\CalculadoraV5\CalculadoraV5\bin\Debug\CalculadoraV5.exe.config
+C:\Users\tsuki\Documents\apresentar\CalculadoraV5\CalculadoraV5\bin\Debug\CalculadoraV5.exe
+C:\Users\tsuki\Documents\apresentar\CalculadoraV5\CalculadoraV5\bin\Debug\CalculadoraV5.pdb
+C:\Users\tsuki\Documents\apresentar\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.csproj.AssemblyReference.cache
+C:\Users\tsuki\Documents\apresentar\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsuki\Documents\apresentar\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.Form1.resources
+C:\Users\tsuki\Documents\apresentar\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.Properties.Resources.resources
+C:\Users\tsuki\Documents\apresentar\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.csproj.GenerateResource.cache
+C:\Users\tsuki\Documents\apresentar\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.csproj.CoreCompileInputs.cache
+C:\Users\tsuki\Documents\apresentar\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.exe
+C:\Users\tsuki\Documents\apresentar\CalculadoraV5\CalculadoraV5\obj\Debug\CalculadoraV5.pdb
